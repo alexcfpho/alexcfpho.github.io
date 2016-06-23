@@ -1,16 +1,34 @@
-
-/*
-p {
-	color: somecolor;
-	font-size: rem/em;
+footer {
+	background-color: #fff;
+	margin-top: 10%;
 }
-*/
+
+article {
+	background-color: #fff;
+	margin: auto;
+}
+
+section {
+	margin: auto;
+}
+
+nav {
+	position:
+}
 
 html {
-	background: #000;
+	background: #fff;
 	color: #fff;
 }
 
 .social-blkright {
 	float: right;
+	margin-right: -1%;
+}
+
+.jumbotron {
+	background-image: url("https://unsplash.it/1200/300/?random");
+	background: cover;
+	max-height: 100%;
+	background-color: transparent;
 }
